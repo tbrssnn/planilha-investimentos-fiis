@@ -30,7 +30,7 @@ Baixe o simulador em Excel clicando aqui:
 
 ## 🧾 Como Usar
 
-1. Baixe e abra o arquivo `Simulador_FIIs_TB_Investimentos.xlsx` no Microsoft Excel.
+1. Baixe e abra o arquivo `Projeto-VersaoFinal.xlsx` no Microsoft Excel.
 2. Acesse a aba **Dashboard**.
 3. Edite os campos de simulação conforme seu perfil de investidor. Os campos que o usuário pode alterar estão em Configurações, todo o resto da planilha é automatizado. No cabeçalho da planilha estão mais informações sobre os campos que o usuário deve entrar com informações.
 4. Os resultados e projeções aparecerão automaticamente na mesma aba, com gráficos.
