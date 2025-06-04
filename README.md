@@ -41,11 +41,9 @@ Desenvolvida como projeto para o Curso Excel com Inteligência Artificial DIO-Sa
 
 ---
 
-## 📷 Captura de Tela (sugestão)
+## 📷 Captura de Tela 
 
-> Insira aqui uma imagem da planilha em funcionamento (adicione à pasta `/img` e atualize o link abaixo)
-
-![Exemplo da planilha](img/simulador-fiis-preview.png)
+![Exemplo da planilha](images/planilha.png)
 
 ---
 
