@@ -22,7 +22,11 @@ Desenvolvida como projeto para o Curso Excel com Inteligência Artificial DIO-Sa
 - Gráficos automáticos de Composição do Patrimônio, mostrando os valores que vieram dos aportes do investidor e o que foi gerado pelos juros
 - Barra deslizante (controle de formulário) para alterar o tempo de investimento dinamicamente.
 
----
+## 📥 Download
+
+Baixe o simulador em Excel clicando aqui:  
+👉 [Download Projeto - Versao Final.xlsx]((https://github.com/tbrssnn/planilha-investimentos-fiis/raw/main/files/Projeto - Versao Final.xlsx))
+
 
 ## 🧾 Como Usar
 
