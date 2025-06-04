@@ -31,7 +31,7 @@ Desenvolvida como projeto para o Curso Excel com Inteligência Artificial DIO-Sa
 
 1. Baixe e abra o arquivo `Simulador_FIIs_TB_Investimentos.xlsx` no Microsoft Excel.
 2. Acesse a aba **Dashboard**.
-3. Edite os campos de simulação conforme seu perfil de investidor.
+3. Edite os campos de simulação conforme seu perfil de investidor. Os campos que o usuário pode alterar estão em Configurações, todo o resto da planilha é automatizado.
 4. Os resultados e projeções aparecerão automaticamente na mesma aba, com gráficos.
 
 ---
